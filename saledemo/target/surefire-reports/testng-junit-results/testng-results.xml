@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-01T23:47:03 CEST" name="Surefire suite" finished-at="2024-08-01T23:47:04 CEST" duration-ms="17">
+    <groups>
+    </groups>
+    <test started-at="2024-08-01T23:47:03 CEST" name="Surefire test" finished-at="2024-08-01T23:47:04 CEST" duration-ms="17">
+      <class name="com.salesforceselenium.in.AppTest">
+        <test-method signature="testcalc()" started-at="2024-08-01T23:47:03 CEST" name="testcalc" finished-at="2024-08-01T23:47:04 CEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcalc -->
+        <test-method signature="testadd()" started-at="2024-08-01T23:47:03 CEST" name="testadd" finished-at="2024-08-01T23:47:04 CEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testadd -->
+        <test-method signature="testsub()" started-at="2024-08-01T23:47:03 CEST" name="testsub" finished-at="2024-08-01T23:47:04 CEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsub -->
+        <test-method signature="chat()" started-at="2024-08-01T23:47:03 CEST" name="chat" finished-at="2024-08-01T23:47:04 CEST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chat -->
+        <test-method signature="shouldAnswerWithTrue()" started-at="2024-08-01T23:47:03 CEST" name="shouldAnswerWithTrue" finished-at="2024-08-01T23:47:04 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- com.salesforceselenium.in.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
